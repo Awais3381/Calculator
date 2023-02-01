@@ -1,3 +1,3 @@
-# calculator
+# Calculator
 
-A Simple Calculator App on Flutte.
+A Simple Calculator App in Flutter.
