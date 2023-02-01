@@ -1,3 +1,3 @@
 # Calculator
 
-A Simple Calculator App in Flutter.
+Good ui and a fully functionality calculator app in flutter
